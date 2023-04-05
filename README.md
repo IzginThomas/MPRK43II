@@ -1,4 +1,4 @@
-# Lyapunov-Stability-MPRK-MPDeC
+# Lyapunov-Stability-MPRK43II
 
 In this repository, there is the code used for the work on the Lyapunov stability investigation of the third order MPRK schemes.
 
